@@ -1,2 +1,2 @@
-# singolo2
-site
+# singolo
+https://Gumerov-Marat.github.io/singolo
